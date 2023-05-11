@@ -10,12 +10,20 @@ public class Utils
 {
     WebDriver driver;
 
+<<<<<<< HEAD
     public Utils (WebDriver driver)
+=======
+    public Utils (WebDriver driver)    //
+>>>>>>> 62833ca (pom)
     {
         this.driver = driver;
     }
 
+<<<<<<< HEAD
     public WebElement getElement(By locator)
+=======
+    public WebElement getElement(By locator)    //getelement is nothing but findelement
+>>>>>>> 62833ca (pom)
     {
         WebElement element =driver.findElement(locator);
         return element;
