@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/abhis/IdeaProjects/PageObjectModel_FW_Unify/src/test/java/pom_PageFactoryApproach_Test">
+        <classes>
+            <class name="pom_PageFactoryApproach_Test.LoginTest">
+                <methods>
+                    <include name="TestLogo"/>
+                    <include name="testLogin"/>
+                </methods>
+            </class>
+            <class name="pom_PageFactoryApproach_Test.RegisterTest">
+                <methods>
+                    <include name="testRegister"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
