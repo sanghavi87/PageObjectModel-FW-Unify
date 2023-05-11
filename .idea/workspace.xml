@@ -40,7 +40,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/abhis/IdeaProjects/PageObjectModel_FW_Unify&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/abhis/IdeaProjects/AbhiTestNG_Learning&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
@@ -55,7 +55,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Login_Register_Test">
+  <component name="RunManager" selected="TestNG.RegisterTest">
     <configuration name="C:/Users/abhis/IdeaProjects/PageObjectModel_FW_Unify/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PageObjectModel_FW_Unify" />
       <shortenClasspath name="NONE" />
@@ -149,9 +149,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.RegisterTest" />
         <item itemvalue="TestNG.Login_Register_Test" />
         <item itemvalue="TestNG.C:/Users/abhis/IdeaProjects/PageObjectModel_FW_Unify/testng.xml" />
-        <item itemvalue="TestNG.RegisterTest" />
         <item itemvalue="TestNG.LoginTest" />
         <item itemvalue="TestNG.LoginTestPage" />
       </list>
