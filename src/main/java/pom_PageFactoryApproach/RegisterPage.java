@@ -12,7 +12,7 @@ public class RegisterPage
 
 
  // 1) Create Constructor :-
- //-------------------------
+ //-----------------------
 
  public RegisterPage(WebDriver driver)
  {

@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06887e1-45c6-4bee-9161-b47e20dd26c9" name="Changes" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/Base/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/Pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/Utilities/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/Utilities/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pom_PageFactoryApproach/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pom_PageFactoryApproach/RegisterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LoginTestPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pom_PageFactoryApproach_Test/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pom_PageFactoryApproach_Test/RegisterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/Drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestData/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/TestData/config.properties" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/src/test/java/pom_PageFactoryApproach_Test/Login_Register_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/Pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/Pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/Utilities/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/nopcommerce/Utilities/Utils.java" afterDir="false" />
->>>>>>> 62833ca (pom)
-    </list>
+    <list default="true" id="f06887e1-45c6-4bee-9161-b47e20dd26c9" name="Changes" comment="amend" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +40,6 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/abhis/IdeaProjects/PageObjectModel_FW_Unify&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
@@ -82,11 +55,7 @@
       <recent name="" />
     </key>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="TestNG.C:/Users/abhis/IdeaProjects/PageObjectModel_FW_Unify/testng.xml">
-=======
   <component name="RunManager" selected="TestNG.Login_Register_Test">
->>>>>>> 62833ca (pom)
     <configuration name="C:/Users/abhis/IdeaProjects/PageObjectModel_FW_Unify/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PageObjectModel_FW_Unify" />
       <shortenClasspath name="NONE" />
@@ -137,18 +106,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="RegisterTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="PageObjectModel_FW_Unify" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pom_PageFactoryApproach.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pom_PageFactoryApproach" />
-      <option name="MAIN_CLASS_NAME" value="pom_PageFactoryApproach.RegisterTest" />
-=======
     <configuration name="Login_Register_Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PageObjectModel_FW_Unify" />
       <extension name="coverage">
@@ -159,7 +116,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="pom_PageFactoryApproach_Test" />
       <option name="MAIN_CLASS_NAME" value="pom_PageFactoryApproach_Test.Login_Register_Test" />
->>>>>>> 62833ca (pom)
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -185,33 +141,19 @@
       </method>
     </configuration>
     <list>
-<<<<<<< HEAD
-=======
       <item itemvalue="TestNG.Login_Register_Test" />
->>>>>>> 62833ca (pom)
       <item itemvalue="TestNG.C:/Users/abhis/IdeaProjects/PageObjectModel_FW_Unify/testng.xml" />
       <item itemvalue="TestNG.LoginTest" />
       <item itemvalue="TestNG.LoginTestPage" />
       <item itemvalue="TestNG.RegisterTest" />
-<<<<<<< HEAD
-      <item itemvalue="TestNG.RegisterTest (1)" />
-    </list>
-    <recent_temporary>
-      <list>
-=======
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.Login_Register_Test" />
->>>>>>> 62833ca (pom)
         <item itemvalue="TestNG.C:/Users/abhis/IdeaProjects/PageObjectModel_FW_Unify/testng.xml" />
         <item itemvalue="TestNG.RegisterTest" />
         <item itemvalue="TestNG.LoginTest" />
         <item itemvalue="TestNG.LoginTestPage" />
-<<<<<<< HEAD
-        <item itemvalue="TestNG.RegisterTest (1)" />
-=======
->>>>>>> 62833ca (pom)
       </list>
     </recent_temporary>
   </component>
@@ -224,6 +166,26 @@
       <option name="presentableId" value="Default" />
       <updated>1683660934031</updated>
     </task>
+    <task id="LOCAL-00001" summary="pom">
+      <created>1683847201422</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683847201422</updated>
+    </task>
+    <task id="LOCAL-00002" summary="amend">
+      <created>1683847308588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683847308588</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pom" />
+    <MESSAGE value="amend" />
+    <option name="LAST_COMMIT_MESSAGE" value="amend" />
   </component>
 </project>
